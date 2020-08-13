@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Bug Tracker
-> A simple issue tracking web application built using Python,Python- Flask,Flask SQLAlchemy,Flask_bcrypt,Flaskwtf and FlaskWtforms.
+> A simple issue tracking web application built using Python, Flask, SQLAlchemy,Flask_bcrypt,Flaskwtf and FlaskWtforms.
 
 
 ## Description
